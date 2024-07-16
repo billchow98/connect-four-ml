@@ -1,0 +1,1 @@
+{"train_loss": 0.9191614985466003, "train_policy_loss": 0.8514577150344849, "train_value_loss": 0.3800291419029236, "validation_elo": 3002.0, "validation_elo_delta": 20}

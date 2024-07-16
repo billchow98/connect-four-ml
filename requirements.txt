@@ -1,0 +1,11 @@
+clu
+flax
+jax[cuda12]
+jupyter
+mctx
+numpy<2
+optax
+orbax-checkpoint
+pgx
+tensorflow  # For tensorboard (TensorFlow SummaryWriter)
+wheel
