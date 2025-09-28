@@ -88,9 +88,3 @@ Tested on Ubuntu 22.04 with Python 3.10 and CUDA 12.2.
   JIT recompilation every match)
 - Optimize performance bottlenecks in the training pipeline
 
-### License
-
-Copyright © 2024 Bill Chow. All rights reserved.
-
-This repository is made available for evaluation purposes by authorized individuals only. 
-Unauthorized use, reproduction, modification, or distribution of this code is strictly prohibited.
